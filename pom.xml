@@ -66,7 +66,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins.workflow</groupId>
             <artifactId>workflow-cps</artifactId>
-            <version>4000.v5198556e9cea_</version>
+            <version>3961.ve48ee2c44a_b_3</version>
         </dependency>
 
         <!-- for HTTP sink-->
